@@ -2,96 +2,111 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Amadeu Cavalcante
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th January 1994
     - name: Languages
-      value: English, German
+      value: Portuguese (Native or Bilingual), English (Professional Working), Spanish (Elementary)
+    - name: Contact
+      value: amadeu01@gmail.com | +55 48 9 9115 5176
+    - name: Location
+      value: Santa Catarina, Brazil
+    - name: GitHub
+      value: github.com/amadeu01
+    - name: LinkedIn
+      value: linkedin.com/in/amadeu01
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Engineer's degree (unfinished) in Mechatronics, Robotics, and Automation Engineering
+      institution: Universidade Estadual de Campinas (UNICAMP)
+      year: 2013 - 2018
+    - title: Full Stack Web Development Certification
+      institution: Free Code Camp
+      year: 2016 - 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: iOS Developer
+      institution: Busbud
+      year: February 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Mobile Developer at Busbud.
+    - title: Mobile Developer
+      institution: Epidemic Sound
+      year: June 2022 - December 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed and maintained features for the iOS mobile app.
+        - Acted as Feature Architect for specific features, from design to deployment.
+        - Mentored junior developers via pair programming and mob programming.
+        - Maintained and enhanced a mobile backend gateway using Kotlin/Ktor.
+        - Monitored app health and metrics to drive improvements.
+    - title: Software Engineering Specialist
+      institution: Pipefy
+      year: September 2021 - June 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Improved developer experience across backend and client-side applications.
+        - Worked with Rust, Elixir, Ruby, Swift (iOS), and Kotlin (Android).
+        - Led architectural documentation and cross-team collaboration.
+    - title: Mobile Engineer
+      institution: Pipefy
+      year: July 2019 - February 2022
+      description:
+        - Built and maintained iOS app.
+        - Maintained Android app.
+        - Contributed to backend services (Ruby on Rails, Elixir).
+    - title: Mobile Developer
+      institution: Pixeon
+      year: November 2018 - June 2019
+      description:
+        - Led migration from React Native to native Android (Kotlin) and iOS (Swift) apps.
+        - Designed architecture for the iOS app.
+    - title: Android Developer
+      institution: AgileProcess
+      year: January 2017 - November 2018
+      description:
+        - Developed new Android apps and features.
+        - Maintained Django backend APIs.
+    - title: Co-Founder
+      institution: Nino
+      year: September 2015 - November 2016
+      description:
+        - Developed Android and iOS applications.
+        - Created server-side using Node.js and AWS.
+    - title: iOS Developer
+      institution: BEPiD
+      year: March 2015 - April 2016
+    - title: Member
+      institution: Liga Empreendedora (Unicamp Entrepreneurship Club)
+      year: August 2013 - April 2015
+      description:
+        - Organized entrepreneurship events, lectures, and innovation training.
+    - title: Intern
+      institution: InEvent
+      year: January 2015 - March 2015
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: GitHub Profile
+      year: Ongoing
+      description: Contributions and personal projects available at [github.com/amadeu01](https://github.com/amadeu01)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Mobile Development
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - iOS and Android development best practices
+        - Mobile architectures and feature scaling
+    - title: Backend Systems
       items:
-        - Description 1.
-        - Description 2.
+        - Kotlin/Ktor services
+        - Microservices architecture
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Entrepreneurship, Software Architecture, Traveling, Learning Languages, Nutrition, Bodybuilding, Heavy Lifting
