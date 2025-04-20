@@ -14,11 +14,11 @@ featured: true
 
 ## 🕰️ Fases do Jejum
 
-| Tempo de Jejum | O que acontece no corpo |
-|:--------------|:-------------------------|
-| 0–16h          | Glicogênio sendo consumido, fome inicial controlável. |
-| 16–24h         | Começa autofagia leve + lipólise (quebra de gordura). |
-| 24–48h         | Autofagia intensa, cetose aumentando, reparo celular. |
+| Tempo de Jejum | O que acontece no corpo                                         |
+| :------------- | :-------------------------------------------------------------- |
+| 0–16h          | Glicogênio sendo consumido, fome inicial controlável.           |
+| 16–24h         | Começa autofagia leve + lipólise (quebra de gordura).           |
+| 24–48h         | Autofagia intensa, cetose aumentando, reparo celular.           |
 | 48–72h         | Pico de autofagia, cetose profunda, regeneração celular máxima. |
 
 ---
@@ -62,30 +62,30 @@ featured: true
 
 ## 🍽️ Estratégia de Quebra do Jejum
 
-| Jejum | O que ingerir |
-|:-----|:--------------|
-| Após 24h | Proteína leve (ovos, frango, caldo de ossos), fibras leves. |
+| Jejum       | O que ingerir                                                                                                             |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------ |
+| Após 24h    | Proteína leve (ovos, frango, caldo de ossos), fibras leves.                                                               |
 | Após 48–72h | 1ª refeição: 1/2 abacate + caldo de ossos + peixe macio.<br>2ª refeição (2-3h depois): refeição normal anti-inflamatória. |
 
 ---
 
 ## 🔥 Compostos que Aceleram Autofagia e Cetose
 
-| Fitoterápico | Efeito Principal |
-|:------------|:------------------|
-| Berberina   | Ativa AMPK, reduz glicose. |
-| Curcumina   | Antioxidante, anti-inflamatório. |
-| Resveratrol | Ativa SIRT1, autofagia, cetose. |
-| EGCG        | Aumenta lipólise e autofagia. |
+| Fitoterápico | Efeito Principal                 |
+| :----------- | :------------------------------- |
+| Berberina    | Ativa AMPK, reduz glicose.       |
+| Curcumina    | Antioxidante, anti-inflamatório. |
+| Resveratrol  | Ativa SIRT1, autofagia, cetose.  |
+| EGCG         | Aumenta lipólise e autofagia.    |
 
 ---
 
 # 📚 Fontes Científicas
 
-- *The Complete Guide to Fasting* – Dr. Jason Fung
-- *The Longevity Diet* – Dr. Valter Longo
-- *Boundless* – Ben Greenfield
-- *Lifespan* – Dr. David Sinclair
+- _The Complete Guide to Fasting_ – Dr. Jason Fung
+- _The Longevity Diet_ – Dr. Valter Longo
+- _Boundless_ – Ben Greenfield
+- _Lifespan_ – Dr. David Sinclair
 - [PubMed - Regulation of Autophagy by Fasting](https://pubmed.ncbi.nlm.nih.gov/20838362/)
 - [Examine.com - Berberine](https://examine.com/supplements/berberine/)
 - [Examine.com - Curcumin](https://examine.com/supplements/curcumin/)
@@ -100,4 +100,4 @@ featured: true
 ✅ **Lion’s Mane, NAC, MSM** = podem durante o jejum  
 ✅ **Ashwagandha, Spirulina, Glutamina** = usar **na quebra**  
 ✅ **Berberina, Curcumina, Resveratrol** = aliados para autofagia e cetose máxima  
-✅ **Após 48h de jejum**, reintroduzir alimentos **lentos e controlados**  
+✅ **Após 48h de jejum**, reintroduzir alimentos **lentos e controlados**

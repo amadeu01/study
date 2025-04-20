@@ -19,10 +19,12 @@ mermaid:
 Entender profundamente o metabolismo energético normal e cetogênico.
 
 **Leituras:**
-- *Principles of Biochemistry* — Lehninger
-- *Biochemistry* — Stryer
+
+- _Principles of Biochemistry_ — Lehninger
+- _Biochemistry_ — Stryer
 
 **Atividades:**
+
 - Mapear o processo de β-oxidação → cetogênese → corpos cetônicos
 - Anotar as principais enzimas envolvidas
 
@@ -34,7 +36,8 @@ Entender profundamente o metabolismo energético normal e cetogênico.
 Compreender como induzir, monitorar e manter estados de cetose.
 
 **Leituras:**
-- *The Art and Science of Low Carbohydrate Living* — Jeff Volek & Stephen Phinney
+
+- _The Art and Science of Low Carbohydrate Living_ — Jeff Volek & Stephen Phinney
 - Artigos:
   - [Biochemistry, Ketogenesis (PubMed 29630231)](https://pubmed.ncbi.nlm.nih.gov/29630231/)
   - [Ketone Bodies as Signaling Metabolites (PubMed 24140022)](https://pubmed.ncbi.nlm.nih.gov/24140022/)
@@ -47,9 +50,10 @@ Compreender como induzir, monitorar e manter estados de cetose.
 Estudar o impacto da cetose no sistema nervoso e nos processos celulares de reciclagem.
 
 **Leituras:**
+
 - [Ketone Bodies in the Brain Beyond Fuel Metabolism (PubMed 34512261)](https://pubmed.ncbi.nlm.nih.gov/34512261/)
 - [Metabolic and Signaling Roles of Ketone Bodies (PubMed 34633859)](https://pubmed.ncbi.nlm.nih.gov/34633859/)
-- *Autophagy and Metabolism* — capítulos selecionados
+- _Autophagy and Metabolism_ — capítulos selecionados
 
 ---
 
@@ -59,11 +63,13 @@ Estudar o impacto da cetose no sistema nervoso e nos processos celulares de reci
 Testar de forma segura a indução de cetose e observar efeitos cognitivos e metabólicos.
 
 **Experimentos sugeridos:**
+
 - Dieta low-carb
 - Cetose leve
 - Jejum intermitente (16:8)
 
 **Cuidados:**
+
 - Hidratação e eletrólitos
 - Monitoramento de energia, foco e humor
 - Exames laboratoriais
@@ -79,7 +85,7 @@ flowchart TD
   C --> D[Producao de Acetil-CoA]
   D --> E[Excesso de Acetil-CoA]
   E --> F[Cetogenese no Figado]
-  
+
   F --> F1[Acetoacetato 1o corpo cetonico]
   F --> F2[B-Hidroxibutirato principal combustivel]
   F --> F3[Acetona eliminada pela respiracao]

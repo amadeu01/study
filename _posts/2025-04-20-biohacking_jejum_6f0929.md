@@ -17,26 +17,28 @@ featured: true
 **Biohacking mental** significa usar protocolos de nutrição, jejum, fitoterápicos e hábitos para **otimizar foco, memória, neuroplasticidade e velocidade de raciocínio**.
 
 No contexto do **jejum intermitente (16–72h)**:
+
 - **Jejum reduz inflamação cerebral.**
 - **Ativa BDNF (Brain-Derived Neurotrophic Factor)**, melhorando formação de novos neurônios.
 - **Estimula corpos cetônicos** como beta-hidroxibutirato, fornecendo combustível cerebral limpo.
 
 📚 Referência:
+
 - [PubMed - Fasting improves brain plasticity](https://pubmed.ncbi.nlm.nih.gov/24714641/)
-- *The Complete Guide to Fasting* (Jason Fung)
+- _The Complete Guide to Fasting_ (Jason Fung)
 
 ---
 
 ## 💊 Compostos Naturais para Maximizar a Performance Mental Durante o Jejum
 
-| Fitoterápico         | Função Principal                        | Dose recomendada em jejum |
-|:---------------------|:----------------------------------------|:---------------------------|
-| **Lion’s Mane**       | Estimula NGF e neuroplasticidade         | 500–1000mg |
-| **Rhodiola Rosea**    | Reduz fadiga mental, aumenta energia     | 200–400mg |
-| **Ginkgo Biloba**     | Aumenta circulação cerebral e foco       | 120–240mg |
-| **L-Teanina**         | Gera foco calmo, aumenta ondas alfa      | 100–200mg |
-| **Berberina**         | Ativa AMPK, potencializa autofagia e clareza mental | 300–500mg |
-| **Curcuminas**        | Reduz inflamação, protege o cérebro      | 500mg |
+| Fitoterápico       | Função Principal                                    | Dose recomendada em jejum |
+| :----------------- | :-------------------------------------------------- | :------------------------ |
+| **Lion’s Mane**    | Estimula NGF e neuroplasticidade                    | 500–1000mg                |
+| **Rhodiola Rosea** | Reduz fadiga mental, aumenta energia                | 200–400mg                 |
+| **Ginkgo Biloba**  | Aumenta circulação cerebral e foco                  | 120–240mg                 |
+| **L-Teanina**      | Gera foco calmo, aumenta ondas alfa                 | 100–200mg                 |
+| **Berberina**      | Ativa AMPK, potencializa autofagia e clareza mental | 300–500mg                 |
+| **Curcuminas**     | Reduz inflamação, protege o cérebro                 | 500mg                     |
 
 ✅ Todos esses compostos **não quebram jejum** quando usados isoladamente em cápsulas puras.
 
@@ -44,42 +46,42 @@ No contexto do **jejum intermitente (16–72h)**:
 
 ## 📚 Livros Essenciais de Biohacking Mental
 
-### 1. **The Complete Guide to Fasting** – *Jason Fung*
+### 1. **The Complete Guide to Fasting** – _Jason Fung_
 
-- 📖 **Resumo:** Explica como o jejum intermitente e prolongado ativa mecanismos de regeneração celular e melhora foco mental.  
-- 🎯 **Ponto forte:** Jejum como ferramenta terapêutica para cérebro e corpo.  
+- 📖 **Resumo:** Explica como o jejum intermitente e prolongado ativa mecanismos de regeneração celular e melhora foco mental.
+- 🎯 **Ponto forte:** Jejum como ferramenta terapêutica para cérebro e corpo.
 - 🔥 **Ler primeiro** para entender o "porquê" biológico do jejum.
 
 ---
 
-### 2. **Boundless** – *Ben Greenfield*
+### 2. **Boundless** – _Ben Greenfield_
 
-- 📖 **Resumo:** Manual completo de biohacking: suplementos, protocolos de sono, nootrópicos naturais e estratégias de jejum para turbinar performance física e mental.  
-- 🎯 **Ponto forte:** Estratégias práticas aplicáveis no dia a dia.  
+- 📖 **Resumo:** Manual completo de biohacking: suplementos, protocolos de sono, nootrópicos naturais e estratégias de jejum para turbinar performance física e mental.
+- 🎯 **Ponto forte:** Estratégias práticas aplicáveis no dia a dia.
 - 🔥 **Ler depois do livro do Jason Fung** para avançar em performance total.
 
 ---
 
-### 3. **Lifespan: Why We Age—and Why We Don’t Have To** – *David Sinclair*
+### 3. **Lifespan: Why We Age—and Why We Don’t Have To** – _David Sinclair_
 
-- 📖 **Resumo:** Explica os mecanismos de envelhecimento cerebral, ativação de SIRTUÍNAS, autofagia, e como o jejum combinado com compostos como Resveratrol e NMN pode preservar função cognitiva.  
-- 🎯 **Ponto forte:** Base científica fortíssima sobre longevidade e cérebro.  
+- 📖 **Resumo:** Explica os mecanismos de envelhecimento cerebral, ativação de SIRTUÍNAS, autofagia, e como o jejum combinado com compostos como Resveratrol e NMN pode preservar função cognitiva.
+- 🎯 **Ponto forte:** Base científica fortíssima sobre longevidade e cérebro.
 - 🔥 **Ler como terceira etapa** para entender como prolongar saúde cerebral.
 
 ---
 
-### 4. **Head Strong** – *Dave Asprey*
+### 4. **Head Strong** – _Dave Asprey_
 
-- 📖 **Resumo:** Técnicas para otimizar produção mitocondrial no cérebro, melhorando energia, foco e capacidade cognitiva, incluindo protocolos de jejum e uso de MCTs.  
-- 🎯 **Ponto forte:** Hacks práticos para melhorar energia mental.  
+- 📖 **Resumo:** Técnicas para otimizar produção mitocondrial no cérebro, melhorando energia, foco e capacidade cognitiva, incluindo protocolos de jejum e uso de MCTs.
+- 🎯 **Ponto forte:** Hacks práticos para melhorar energia mental.
 - 🔥 **Ler em paralelo ao Boundless**.
 
 ---
 
-### 5. **The Bulletproof Diet** – *Dave Asprey*
+### 5. **The Bulletproof Diet** – _Dave Asprey_
 
-- 📖 **Resumo:** Dieta focada em manter o cérebro em alta performance através de cetose cíclica, jejum e gorduras inteligentes.  
-- 🎯 **Ponto forte:** Como estruturar a alimentação para favorecer foco sem picos de insulina.  
+- 📖 **Resumo:** Dieta focada em manter o cérebro em alta performance através de cetose cíclica, jejum e gorduras inteligentes.
+- 🎯 **Ponto forte:** Como estruturar a alimentação para favorecer foco sem picos de insulina.
 - 🔥 **Ler depois para montar sua estratégia alimentar personalizada.**
 
 ---
