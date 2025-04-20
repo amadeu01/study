@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/study/blog/";
               },
-            },{id: "post-max-biohacking-cheatsheet-jejum",
+            },{id: "post-aprofundamento-em-cetose-corpos-cetônicos-e-autofagia",
+        
+          title: "Aprofundamento em Cetose, Corpos Cetônicos e Autofagia",
+        
+        description: "Entender profundamente o metabolismo energético normal e cetogênico.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/study/blog/2025/mapa-cetose/";
+          
+        },
+      },{id: "post-max-biohacking-cheatsheet-jejum",
         
           title: "Max Biohacking Cheatsheet Jejum",
         
