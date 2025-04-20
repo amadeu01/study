@@ -3,7 +3,7 @@ layout: post
 title: "Cheatsheet Jejum"
 date: 2025-04-20 08:00:00
 description: "Guia rápido (cheatsheet) para práticas de jejum."
-tags: ['cheatsheet', 'jejum', 'saúde']
+tags: cheatsheet jejum saude
 categories: nutrition
 featured: true
 ---

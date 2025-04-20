@@ -3,7 +3,7 @@ layout: post
 title: "Biohacking Jejum"
 date: 2025-04-20 08:00:00
 description: "Como o biohacking pode otimizar seu jejum."
-tags: ['biohacking', 'jejum', 'saúde']
+tags: biohacking jejum saude
 categories: nutrition
 featured: true
 ---

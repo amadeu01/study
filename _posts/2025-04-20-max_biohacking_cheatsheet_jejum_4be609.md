@@ -3,7 +3,7 @@ layout: post
 title: "Max Biohacking Cheatsheet Jejum"
 date: 2025-04-20 08:00:00
 description: "Resumo de biohacking focado em jejum."
-tags: ['biohacking', 'jejum', 'saúde']
+tags: biohacking fitoterapia jejum saude
 categories: nutrition
 featured: true
 ---

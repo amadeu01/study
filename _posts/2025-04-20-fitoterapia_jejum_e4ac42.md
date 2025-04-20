@@ -3,7 +3,7 @@ layout: post
 title: "Fitoterapia Jejum"
 date: 2025-04-20 08:00:00
 description: "Uso de fitoterapia para apoio ao jejum."
-tags: ['fitoterapia', 'jejum', 'saúde']
+tags: fitoterapia jejum saude
 categories: nutrition
 featured: true
 ---

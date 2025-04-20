@@ -3,7 +3,7 @@ layout: post
 title: "Fitoterapia Estudos"
 date: 2025-04-20 08:00:00
 description: "Estudos científicos sobre fitoterapia."
-tags: ['fitoterapia', 'estudos', 'saúde']
+tags: fitoterapia jejum saude
 categories: nutrition
 featured: true
 ---

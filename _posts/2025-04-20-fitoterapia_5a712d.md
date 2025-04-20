@@ -3,7 +3,7 @@ layout: post
 title: "Fitoterapia"
 date: 2025-04-20 08:00:00
 description: "Guia básico sobre fitoterapia."
-tags: ['fitoterapia', 'saúde']
+tags: fitoterapia jejum saude
 categories: nutrition
 featured: true
 ---
