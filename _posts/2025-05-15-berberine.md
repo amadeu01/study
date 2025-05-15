@@ -101,10 +101,10 @@ The liver processes berberine through several pathways:
 
 * Phase I metabolism via CYP450 enzymes (primarily CYP2D6 and CYP1A2)
 * Demethylation and demethylenation producing metabolites including:
-    * Berberrubine (more active in some pathways than berberine itself)
-    * Thalifendine
-    * Demethyleneberberine
-    * Jatrorrhizine
+  * Berberrubine (more active in some pathways than berberine itself)
+  * Thalifendine
+  * Demethyleneberberine
+  * Jatrorrhizine
 
 Some of these metabolites may contribute to therapeutic effects, creating a complex picture of bioactivity.
 
