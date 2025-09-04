@@ -51,7 +51,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/study/blog/";
               },
-            },{id: "post-aprofundamento-em-cetose-corpos-cetônicos-e-autofagia",
+            },{id: "post-tech-roadmap",
+        
+          title: "Tech Roadmap",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/study/blog/2025/tech-roadmap/";
+          
+        },
+      },{id: "post-berberine",
+        
+          title: "Berberine",
+        
+        description: "Berberine: Usage, Effects, and Mechanisms",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/study/blog/2025/berberine/";
+          
+        },
+      },{id: "post-aprofundamento-em-cetose-corpos-cetônicos-e-autofagia",
         
           title: "Aprofundamento em Cetose, Corpos Cetônicos e Autofagia",
         
