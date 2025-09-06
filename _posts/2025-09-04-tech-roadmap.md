@@ -251,3 +251,63 @@ This path guides you through the world of machine learning, from understanding d
 * **AI-Driven Validation:** "I will describe a deep learning task (e.g., 'sentiment analysis of text reviews'). Ask me to propose a high-level neural network architecture for it (e.g., what kind of layers I would use, like Embedding and LSTM). Challenge my choices and ask me to justify them."
 Framework Comparison: "I'm starting a new deep learning project. Compare TensorFlow and PyTorch in terms of their learning curve, community support, and deployment options."
 AI-Driven Validation: "I will describe a deep learning task (e.g., 'sentiment analysis of text reviews'). Ask me to propose a high-level neural network architecture for it (e.g., what kind of layers I would use, like Embedding and LSTM). Challenge my choices and ask me to justify them."
+
+## V. The Sentinel's Watch (IoT & Network Security) 📡
+
+This path focuses on securing networks and the growing world of Internet of Things (IoT) devices. The approach is strictly ethical: you learn to attack systems to build better defenses for them. **All activities must be conducted on networks you own or have explicit, written permission to test.**
+
+### **Knowledge Map & Evolutionary Steps**
+
+#### **Level 1: Foundational (The Network Mapper)**
+
+* **What to Study:**
+    * **Network Fundamentals:** How Wi-Fi works (802.11 standards), MAC vs. IP addresses, subnets.
+    * **Wi-Fi Security Protocols:** The differences between WEP, WPA, WPA2, and WPA3.
+    * **Common Attack Concepts:** What is a **Wi-Fi Deauthentication attack**? (It's a denial-of-service attack where an attacker spoofs messages to disconnect users from a network, often as a prelude to another attack).
+    * **Introductory Tools:** Using tools like `nmap` for network discovery and port scanning.
+* **How to Use AI to Evolve:**
+    1.  **Conceptual Clarity:** "Act as a network security instructor. Explain how a Wi-Fi deauthentication attack works, and what its primary purpose is in a penetration test. Focus on how to detect such an attack."
+    2.  **Tool Explanation:** "Provide a simple `nmap` command to scan my own local network to see which devices are connected. Explain what each part of the command does and what the output (e.g., open ports) signifies."
+* **AI-Driven Validation:** "I'm going to tell you a Wi-Fi security protocol (e.g., 'WPA2'). Your role is to ask me about its known vulnerabilities and how WPA3 improves upon them. Critique my answer for technical accuracy."
+
+#### **Level 2: Application (The Vulnerability Hunter)**
+
+* **What to Study:**
+    * **Penetration Testing Hardware:** Understanding the tools of the trade.
+        * **Wi-Fi Adapters:** Cards capable of monitor mode and packet injection (e.g., Alfa Networks series).
+        * **Specialized Hardware:** Devices like the WiFi Pineapple, Hak5 gear, and the **Flipper Zero**.
+        * **DIY Platforms:** Using a **Raspberry Pi** with software like Kali Linux as a portable testing device.
+    * **Common Network Mistakes:**
+        * Weak or default passwords on routers and devices.
+        * Outdated firmware with known vulnerabilities.
+        * Unnecessary open ports and services (e.g., Telnet, FTP).
+        * Lack of network segmentation (e.g., IoT devices on the same network as sensitive computers).
+    * **Securing Open Wi-Fi:** How do you protect users on a guest network? Through **Client Isolation** (prevents users from seeing each other), a **Captive Portal** (for authentication/terms of service), and **Content Filtering**.
+* **How to Use AI to Evolve:**
+    1.  **Hardware Use Cases:** "Explain the ethical use case for a Flipper Zero in a network security audit. How can its features (like Sub-GHz, NFC, Wi-Fi) be used to test a client's physical and wireless security?"
+    2.  **Problem Solving:** "Act as a security consultant. A small business has a single, open guest Wi-Fi network for both customers and their own office computers and printers. Describe the top 3 risks and suggest a plan to fix them."
+* **AI-Driven Validation:** "I'm going to describe a common network misconfiguration (e.g., 'A smart TV is on the same network as the company's file server'). Your job is to ask me to explain the specific risk and the principle of network security that would fix it (in this case, segmentation)."
+
+#### **Level 3: Mastery (The Security Strategist)**
+
+* **What to Study:**
+    * **Automated Scanning:** Using projects like **Bjorn** on a Raspberry Pi to automate reconnaissance and vulnerability discovery on an authorized network. This helps quickly find low-hanging fruit.
+    * **The Penetration Test Report:** This is a crucial professional skill. A good report includes:
+        1.  **Executive Summary:** A non-technical overview for management.
+        2.  **Scope & Objectives:** What was tested and what the goals were.
+        3.  **Methodology:** A description of the tools and techniques used.
+        4.  **Findings:** A detailed list of all vulnerabilities discovered, each with a **Severity Rating** (e.g., Critical, High, Medium, Low).
+        5.  **Evidence:** Screenshots or logs proving the vulnerability exists.
+        6.  **Remediation Plan:** Clear, actionable steps the client must take to fix each vulnerability.
+    * **Advanced IoT Security:** Analyzing firmware, identifying hardcoded backdoors, and understanding the specific communication protocols of IoT devices.
+* **How to Use AI to Evolve:**
+    1.  **Strategy & Reporting:** "Act as a Senior Penetration Tester. A client has hired us to test their corporate network. They have many new IoT devices (smart thermostats, security cameras). How would a tool like Bjorn on a Raspberry Pi fit into our testing methodology? Afterwards, provide me with a professional markdown template for the final report we would deliver to the client."
+    2.  **Risk Analysis:** "I've found a vulnerability: The client's smart security camera is using its default, publicly known password. Explain how you would write this up in a pentest report, including the severity rating, the potential business impact, and a clear recommendation for remediation."
+* **AI-Driven Validation (IoT Security Interview Prompt):**
+    * "Act as the Head of Security for a company that manufactures smart home devices. You are interviewing me for a Product Security Engineer role. I am the candidate.
+        Your task is to present me with a scenario: **'We are developing a new Wi-Fi-enabled smart lock. Your job is to create a threat model and initial penetration testing plan for this device before it goes to market.'**
+        As I explain my plan, you MUST:
+        1.  **Drill down on specifics.** If I say 'I'll test the mobile app,' you must ask, *'What specific vulnerabilities from the OWASP Mobile Top 10 are most relevant to a smart lock app?'*
+        2.  **Challenge my methodology.** If I focus only on the network, ask me, *'What about physical attacks? What if someone gains physical access to the device?'*
+        3.  **Ask for remediation advice.** If I find a flaw, ask me how I would advise the engineering team to fix it.
+        4.  **Conclude with a critique.** At the end of the simulation, assess my understanding of IoT security principles, my ability to think like an attacker, and my communication of risk. Provide 3 points for improvement."
