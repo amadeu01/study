@@ -180,3 +180,74 @@ This path is about understanding threats to build stronger defenses. **Always ac
         5.  **Conclude with a final critique.** At the end of the simulation, provide a detailed critique of my performance. Assess my technical depth on iOS security, my problem-solving process, and my ability to articulate risk. Provide 3 specific areas for improvement.
 
         Let's begin. You can start with your introduction."
+
+
+## V. The Oracle's Vision (AI & Machine Learning) 🧠
+
+This path guides you through the world of machine learning, from understanding data to building and deploying intelligent models. You will use AI to learn about AI, a meta-skill that is becoming increasingly valuable.
+
+### **Knowledge Map & Evolutionary Steps**
+
+#### **Level 1: Foundational (The Data Wrangler)**
+
+* **What to Study:**
+
+  * **Core Concepts:** What is Machine Learning? Supervised vs. Unsupervised vs. Reinforcement learning.
+
+  * **Python for Data Science:** Mastering libraries like Pandas (for data manipulation), NumPy (for numerical operations), and Matplotlib/Seaborn (for visualization).
+
+  * **Data Preprocessing:** Handling missing data, feature scaling, encoding categorical variables.
+
+* **How to Use AI to Evolve:**
+
+  1. **Conceptual Clarity:** "Act as a Data Science professor. Explain the difference between supervised and unsupervised learning using the analogy of sorting a pile of photos."
+
+  2. **Code Assistance:** "I have a Pandas DataFrame. Show me the Python code to remove duplicate rows and fill missing 'age' values with the average age of that column."
+
+* **AI-Driven Validation:** "Give me a small, sample CSV dataset as text. Ask me to write the Pandas code to load it, describe its basic stats (`.describe()`), and plot a histogram of one of its numerical columns. Then, review my code for correctness."
+
+---
+
+#### **Level 2: Application (The Model Builder)**
+
+* **What to Study:**
+
+  * **Traditional ML Models:** Linear/Logistic Regression, Decision Trees, K-Nearest Neighbors, Support Vector Machines (SVM).
+
+  * **Model Training:** The concept of a training set vs. a testing set, cross-validation.
+
+  * **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
+
+  * **Scikit-learn:** The primary Python library for implementing these models.
+
+* **How to Use AI to Evolve:**
+
+  1. **Model Selection:** "I have a dataset to predict customer churn (a yes/no problem). Should I use Logistic Regression or a Decision Tree? Explain the pros and cons of each for this specific classification task."
+
+  2. **Code Implementation:** "Provide me with the Sc-learn boilerplate code to train a basic Logistic Regression model, including splitting the data, fitting the model, and making predictions."
+
+* **AI-Driven Validation:** "Act as a machine learning engineer. I will describe a business problem (e.g., 'predicting house prices'). Your role is to ask me which type of ML model is appropriate, what evaluation metric I should use, and why. Critique my reasoning."
+
+---
+
+#### **Level 3: Mastery (The Deep Learner)**
+
+* **What to Study:**
+
+  * **Neural Networks:** What are neurons, layers, activation functions?
+
+  * **Deep Learning Frameworks:** Introduction to TensorFlow and PyTorch.
+
+  * **Specialized Architectures:** Convolutional Neural Networks (CNNs) for images, Recurrent Neural Networks (RNNs) for sequential data.
+
+  * **MLOps:** The basics of deploying and monitoring ML models in production.
+
+* **How to Use AI to Evolve:**
+
+  1. **Architecture Design:** "Explain the role of convolutional and pooling layers in a CNN for image classification. How do they help the network 'see' features like edges and shapes?"
+
+  2. **Framework Comparison:** "I'm starting a new deep learning project. Compare TensorFlow and PyTorch in terms of their learning curve, community support, and deployment options."
+
+* **AI-Driven Validation:** "I will describe a deep learning task (e.g., 'sentiment analysis of text reviews'). Ask me to propose a high-level neural network architecture for it (e.g., what kind of layers I would use, like Embedding and LSTM). Challenge my choices and ask me to justify them."
+Framework Comparison: "I'm starting a new deep learning project. Compare TensorFlow and PyTorch in terms of their learning curve, community support, and deployment options."
+AI-Driven Validation: "I will describe a deep learning task (e.g., 'sentiment analysis of text reviews'). Ask me to propose a high-level neural network architecture for it (e.g., what kind of layers I would use, like Embedding and LSTM). Challenge my choices and ask me to justify them."
