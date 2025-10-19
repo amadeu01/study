@@ -64,4 +64,3 @@ O UART é um protocolo de comunicação serial assíncrona fundamental para micr
 
 [1] Conversa com JJ (19 de outubro de 2025)
 [2] Hiari, O. (2023, 20 de julho). _ESP32 Standard Library Embedded Rust: UART Communication_. DEV Community. [https://dev.to/theembeddedrustacean/esp32-standard-library-embedded-rust-uart-communication-1413](https://dev.to/theembeddedrustacean/esp32-standard-library-embedded-rust-uart-communication-1413)
-</content>
