@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/study/blog/";
               },
-            },{id: "post-tech-roadmap",
+            },{id: "post-resolvendo-problemas-de-saída-serial-ilegível-no-esp32-com-platformio",
+        
+          title: "Resolvendo Problemas de Saída Serial Ilegível no ESP32 com PlatformIO",
+        
+        description: "Como corrigir a saída de dados corrompida (giberish) no monitor serial ao programar o ESP32, garantindo que a taxa de transmissão (baud rate) esteja sincronizada.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/study/blog/2025/esp32/";
+          
+        },
+      },{id: "post-tech-roadmap",
         
           title: "Tech Roadmap",
         
