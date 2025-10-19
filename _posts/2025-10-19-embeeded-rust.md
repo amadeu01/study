@@ -8,7 +8,6 @@ categories: embedded-systems hardware
 featured: true
 ---
 
-<content>
 
 ## O que é UART?
 
