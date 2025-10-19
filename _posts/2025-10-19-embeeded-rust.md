@@ -8,7 +8,6 @@ categories: embedded-systems hardware
 featured: true
 ---
 
-
 ## O que é UART?
 
 **UART** (Universal Asynchronous Receiver/Transmitter) é um componente de hardware (ou um bloco de circuito integrado) que lida com a comunicação serial assíncrona. Em termos simples, é o "bloco" dentro de um dispositivo que permite que ele envie e receba dados de forma serial. A comunicação é **assíncrona** porque não há um sinal de clock compartilhado entre os dispositivos para sincronizar a transmissão; em vez disso, a sincronização é feita através de parâmetros como a **baud rate** [1].
