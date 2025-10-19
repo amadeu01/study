@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/study/blog/2025/esp32/";
           
         },
+      },{id: "post-uart-no-esp32-comunicação-serial-assíncrona-para-microcontroladores",
+        
+          title: "UART no ESP32: Comunicação Serial Assíncrona para Microcontroladores",
+        
+        description: "Entendendo o UART (Universal Asynchronous Receiver/Transmitter) no contexto do ESP32, sua importância na comunicação serial assíncrona e como ele se diferencia de outras formas de comunicação.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/study/blog/2025/embeeded-rust/";
+          
+        },
       },{id: "post-tech-roadmap",
         
           title: "Tech Roadmap",
